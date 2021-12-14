@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Rainly0036/Homework-Correction-Tracking-System/issues"
   },
+  "engines": {
+    "node": "17.2.0",
+    "npm": "8.3.0"
+  },
   "homepage": "https://github.com/Rainly0036/Homework-Correction-Tracking-System#readme"
 }
