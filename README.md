@@ -20,7 +20,10 @@ Make sure you done all of it.
 1. Copy your bot token from [Discord Developer Portal](https://discord.com/developers/applications)
 2. Inside `/storage/config.json` file, paste it in "PASTE-YOUR-BOT-TOKEN-HERE"
 ![image info](./assets/botToken.jpg)
-
 3. Open a new channel and name it whatever you want
-4. Send a message in that new channel 
-The message content
+4. Send a message in that new channel. The message content needs to be `$botMsg`. The bot will send a msg and that is the msg 
+5. Copy the message id that bot sended.
+6. Copy the channel id in that new channel.
+7. Inside `/index.js`, paste the channel id and message id seperately in the red box given: 
+![image info](./assets/channelID&msgID.jpg)
+

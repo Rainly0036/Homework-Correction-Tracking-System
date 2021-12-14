@@ -48,4 +48,5 @@ client.on("messageCreate", message => {
         return message.channel.send({ content: "This is the message that the bot will change it in future." })
     }
 })
+
 client.login(env.botToken)
