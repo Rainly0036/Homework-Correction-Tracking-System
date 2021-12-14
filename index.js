@@ -42,4 +42,10 @@ client.on("messageUpdate", (oldMessage, newMessage) => {
     }
 })
 
+client.on("messageCreate", message => {
+    if (message.channel.type == "GUILD_DM" || message.author.bot) return;
+    if (message.content === "$botMsg") {
+        return message.channel.send({ content: "This is the message that the bot will change it in future." })
+    }
+})
 client.login(env.botToken)

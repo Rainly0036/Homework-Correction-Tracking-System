@@ -20,3 +20,7 @@ Make sure you done all of it.
 1. Copy your bot token from [Discord Developer Portal](https://discord.com/developers/applications)
 2. Inside `/storage/config.json` file, paste it in "PASTE-YOUR-BOT-TOKEN-HERE"
 ![image info](./assets/botToken.jpg)
+
+3. Open a new channel and name it whatever you want
+4. Send a message in that new channel 
+The message content
