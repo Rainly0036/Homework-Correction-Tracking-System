@@ -47,4 +47,5 @@ Thats it. Now you can edit your messages and the tracking system will automatica
 
 ### Donate
 Wants to donate? DM me in discord: Rainly36#0306
+
 TnG only (Malaysia)
