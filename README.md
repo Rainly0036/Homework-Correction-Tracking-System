@@ -44,3 +44,7 @@ Make sure you done all of it.
 
 ### Completed
 Thats it. Now you can edit your messages and the tracking system will automatically update your changes. If you have any technique problems or questions, please [join this server](https://discord.gg/d9Wxzyyfpc) and i will help you one by one. 
+
+### Donate
+Wants to donate? DM me in discord: Rainly36#0306
+TnG only (Malaysia)
